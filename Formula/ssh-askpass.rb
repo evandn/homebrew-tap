@@ -1,8 +1,8 @@
 class SshAskpass < Formula
   desc "A minimal ssh-askpass for macOS"
   homepage "https://github.com/evandn/ssh-askpass"
-  url "https://github.com/evandn/ssh-askpass/archive/v1.0.0.tar.gz"
-  sha256 "95c26004e0c747b530bd416335a09a9db92df2fb4e5fde9154f3c2e468187d11"
+  url "https://github.com/evandn/ssh-askpass/archive/v1.0.1.tar.gz"
+  sha256 "ac3483268fa36ec554948444a47bb075a71b40de534224faa527888e1fac5a7d"
   license "Apache-2.0"
 
   depends_on "pinentry-mac"
